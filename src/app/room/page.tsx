@@ -12,7 +12,7 @@ import "@livekit/components-styles";
 import { Track } from "livekit-client";
 import { useEffect, useState } from "react";
 
-export default function Home() {
+export default function Page() {
   // TODO: get user input for room and name
   const room = "quickstart-room";
   const name = "quickstart-user";
